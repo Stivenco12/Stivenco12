@@ -19,7 +19,8 @@
         width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 
 
-    <img src="descarga.gif" alt="" >
+    <img src="![descarga](https://github.com/user-attachments/assets/4a41d85e-76fc-4e66-bae5-95abe85a3242)
+[](url)"" >
 </center>
 
 
