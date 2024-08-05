@@ -19,7 +19,7 @@
         width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 
 
-    <br>
+    <img src="descarga.gif" alt="" >
 </center>
 
 
