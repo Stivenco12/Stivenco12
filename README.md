@@ -6,5 +6,4 @@
 - 🌱 Im currently learning Web Development and other programming languages
 
 <br>
-<center>
-        <h3 align="left">Languages and Tools:</h3>
+
