@@ -25,7 +25,7 @@
 
 ## 📬 Contacto  
 📧 Email: jestcoam@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/jedier-stivenson-correa-amaris-a66a87352/
+🔗 LinkedIn: [https://www.linkedin.com/in/jedier-stivenson-correa-amaris-a66a87352/](https://www.linkedin.com/in/jedier-stivenson-correa-amariz-628597353/)
 
 ---
 
