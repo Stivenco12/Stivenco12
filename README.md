@@ -4,6 +4,9 @@
 ---
 
 ## 📌 Sobre mí  
+Hola soy jedier stivenson correa amaris actualmente estudiante de campusnland/uniminuto colombia, actualmente tengo una edad de 17 años con ansias de seguir estudiando a futuro lenguajes como c++, c entre otros lenguajes
+
+Desarrollador con experiencia en web y bases de datos. Trabajo con JavaScript, HTML y CSS, desarrollando interfaces dinámicas con Web Components, validación de formularios y manejo de datos en JSON y localStorage. También tengo conocimientos en Java, C# (básico) y Python.
 - 💻 Apasionado por la tecnología y la programación  
 - 📚 Actualmente aprendiendo **Java, JavaScript y bases de datos**  
 - 🎯 Interesado en **desarrollo web y backend**  
