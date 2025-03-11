@@ -27,8 +27,7 @@ Desarrollador con experiencia en web y bases de datos. Trabajo con JavaScript, H
 ---
 
 ## 📬 Contacto  
-📱 Telefono : 318 3164638 
-
+📱 TELEFONO : 318 3164638 
 📧 Email: jestcoam@gmail.com  
 🔗 LinkedIn: [https://www.linkedin.com/in/jedier-stivenson-correa-amaris-a66a87352/](https://www.linkedin.com/in/jedier-stivenson-correa-amariz-628597353/)
 💼 Portafolio : [https://portafolios-stivenson.netlify.app/](https://portafolios-stivenson.netlify.app/)
