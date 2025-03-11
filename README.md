@@ -1,4 +1,4 @@
-# 👋 Hola, soy Stivenson Correa  
+![image](https://github.com/user-attachments/assets/c61f03e6-ee73-4416-b42c-bc353845228a)# 👋 Hola, soy Stivenson Correa  
 🚀 Desarrollador en formación | 🌱 Aprendiendo desarrollo web y otras tecnologías
 
 ---
@@ -27,12 +27,13 @@ Desarrollador con experiencia en web y bases de datos. Trabajo con JavaScript, H
 ---
 
 ## 📬 Contacto  
+📱 Telefono : 318 3164638
 📧 Email: jestcoam@gmail.com  
 🔗 LinkedIn: [https://www.linkedin.com/in/jedier-stivenson-correa-amaris-a66a87352/](https://www.linkedin.com/in/jedier-stivenson-correa-amariz-628597353/)
-Portafolio : [https://portafolios-stivenson.netlify.app/](https://portafolios-stivenson.netlify.app/)
+💼 Portafolio : [https://portafolios-stivenson.netlify.app/](https://portafolios-stivenson.netlify.app/)
 ---
 
-✨ _Gracias por visitar mi perfil. ¡Vamos a construir algo increíble juntos!_ 🚀
+✨ Gracias por visitar mi perfil. ¡Vamos a construir algo increíble juntos! 🚀
 
 
 
