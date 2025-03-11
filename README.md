@@ -18,7 +18,7 @@ Desarrollador con experiencia en web y bases de datos. Trabajo con JavaScript, H
 - ✨ Java, Python
 - ✨ Git, GitHub
 - ✨ Bases de Datos SQL
- 
+- ✨ C#
 ---
 
 ## 📊 Estadísticas
