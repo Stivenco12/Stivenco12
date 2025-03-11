@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c61f03e6-ee73-4416-b42c-bc353845228a)# 👋 Hola, soy Stivenson Correa  
+# 👋 Hola, soy Stivenson Correa  
 🚀 Desarrollador en formación | 🌱 Aprendiendo desarrollo web y otras tecnologías
 
 ---
